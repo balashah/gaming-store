@@ -1,0 +1,104 @@
+.banner{
+    width: 100%;
+    height: 150px;
+    display: flex;
+}
+.bannerleft{
+    height: 100%;
+    width: 25%;
+}
+.bannerright{
+    height: 100%;
+    width: 75%;
+}
+.imgtopbanner2{
+    border-radius: 5px 5px 5px 5px;
+}
+.tb1{
+    margin-left: 90px;
+    margin-top: 30px;
+}
+.emptydiv3{
+    height: 40px;
+    width: 100%;
+}
+.tcontainer{
+    width: 100%;
+    height: 400px;
+    display: flex;
+}
+.tcontainer1{
+    width: 35%;
+    height: 400px;
+}
+.imgtcontainer1{
+    margin-left: 80px;
+    border-radius: 10px 10px 10px 10px;
+}
+.tcontainer2{
+    height: 400px;
+    width: 65%;
+    display: flex;
+}
+.tcontainer2a{
+    height: 350px;
+    width: 30%;
+    margin-top: 50px;
+    margin-left: 24px;
+}
+.tcontainer2b{
+    height: 350px;
+    width: 30%;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.tcontainer2c{
+    height: 350px;
+    width: 30%;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.imgtcontainer2a{
+    margin-left: 33px;
+    border-radius: 10px 10px 10px 10px;
+}
+.texttcontainer2{
+    margin-left: 30px;
+    
+}
+.tcontainer3{
+    height: 400px;
+    width: 65%;
+    margin-left: 450px;
+    margin-top: 15px;
+    display: flex;
+}
+.tcontainer3a{
+    height: 350px;
+    width: 30%;
+    margin-top: 50px;
+    margin-left: 24px;
+}
+.tcontainer3b{
+    height: 350px;
+    width: 30%;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.tcontainer3c{
+    height: 350px;
+    width: 30%;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.imgtcontainer3a{
+    margin-left: 33px;
+    border-radius: 10px 10px 10px 10px;
+}
+.texttcontainer3{
+    margin-left: 30px;
+    
+}
+.texttcontainer33{
+    margin-left: 45px;
+}

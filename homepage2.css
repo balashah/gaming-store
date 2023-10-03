@@ -1,0 +1,514 @@
+.page{
+    width: 99.85%;
+    height: 3150px;
+    margin-top: 20px;
+    align-items: center;
+}
+.offerdiv{
+    background-color: white;
+    margin-left: 60px;
+    width: 90%;
+    height: 80px;
+    display: flex;
+}
+.offerdiv1{
+    width: 20%;
+    height: 80px;
+    margin-top: 15px;
+    text-align: center;
+    
+}
+.offerdiv2{
+    width: 20%;
+    height: 80px;
+    margin-top: 15px;
+    text-align: center;
+}
+.offerdiv3{
+    width: 20%;
+    height: 80px;
+    margin-top: 15px;
+    text-align: center;
+}
+.offerdiv4{
+    width: 20%;
+    height: 80px;
+    margin-top: 15px;
+    text-align: center;
+}
+.offerdiv5{
+    width: 20%;
+    height: 80px;
+    margin-top: 15px;
+    text-align: center;
+}
+
+
+
+
+
+.productivitydiv{
+    background-color: white;
+    display: flex;
+    width: 90%;
+    height: 70px;
+    margin-top: 50px;
+    margin-left: 60px;
+    
+}
+.productivitydiva{
+    
+    width: 20%;
+}
+.productivitydivb{
+    
+    width: 20%;
+}
+.productivitydivc{
+    
+    width: 20%;
+}
+.productivitydivd{
+    
+    width: 20%;
+}
+.productivitydive{
+    
+    width: 20%;
+}
+
+
+
+
+
+.containermaindiv{
+    width: 90%;
+    height: 400px;
+    display: flex;
+    margin-left: 60px;
+    margin-top: 50px;
+}
+.container1a{
+    width: 30%;
+    height: 400px;
+    margin-left: 0px;
+    
+}
+.container1b{
+    width: 40%;
+    height: 400px;
+    margin-left: 20px;
+    cursor: pointer;
+    
+}
+
+.container1c{
+    width: 30%;
+    height: 400px;
+    margin-left: 20px;
+}
+.container1a1{
+    width: 100%;
+    height: 195px;
+    cursor: pointer;
+}
+.container1a2{
+    width: 100%;
+    height: 195px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.container1c1{
+    width: 100%;
+    height: 195px;
+    cursor: pointer;
+}
+.container1c2{
+    width: 100%;
+    height: 195px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.hovpic{
+    border-radius: 5px 5px 5px;
+    transition: 1s;
+}
+.hovpic:hover{
+    transform: scale(1.05);
+}
+.hovpica{
+    margin-left: 20px;
+    margin-top: 10px;
+    transition: 1s;
+}
+.hovpica:hover{
+    transform: scale(1.05);
+}
+
+
+
+
+.featured{
+    text-align: center;
+    width: 90%;
+    height: 400px;
+    margin-left: 60px;
+    display: flex;
+}
+.gta5{
+    background-color: white;
+    border-radius: 5px 5px 5px 5px;
+    height: 400px;
+    width: 19%;
+    padding-top: 20px;
+    cursor: pointer;
+    transition: 1s;
+}
+.gta5:hover{
+    transform: scale(1.05);
+}
+.rdr2{
+    background-color: white;
+    border-radius: 5px 5px 5px 5px;
+    height: 400px;
+    width: 19%;
+    padding-top: 20px;
+    margin-left: 20px;
+    transition: 1s;
+    cursor: pointer;
+    transition: 1s;
+}
+.rdr2:hover{
+    transform: scale(1.05);
+    border-radius: 5px 5px 5px 5px;
+}
+.minicraf{
+    background-color: white;
+    height: 400px;
+    width: 19%;
+    padding-top: 20px;
+    margin-left: 20px;
+    transition: 1s;
+    cursor: pointer;
+    transition: 1s;
+}
+.minicraf:hover{
+    transform: scale(1.05);
+}
+.hogwarts{
+    background-color: white;
+    border-radius: 5px 5px 5px 5px;
+    height: 400px;
+    width: 19%;
+    padding-top: 20px;
+    margin-left: 20px;
+    transition: 1s;
+    cursor: pointer;
+    transition: 1s;
+}
+.hogwarts:hover{
+    transform: scale(1.05);
+}
+.gta4{
+    background-color: white;
+    border-radius: 5px 5px 5px 5px;
+    height: 400px;
+    width: 19%;
+    padding-top: 20px;
+    margin-left: 20px;
+    transition: 1s;
+    transition: 1s;
+    cursor: pointer;
+}
+.gta4:hover{
+    transform: scale(1.05);
+}
+
+
+
+
+
+.mainbox{
+    margin-top: 60px;
+    height: 330px;
+    width: 90%;
+    margin-left: 60px;
+    display: flex;
+}
+.box1{
+    background-color: white;
+    height: 330px;
+    width: 25%;
+    cursor: pointer;
+    transition: 1s;
+}
+.box1:hover{
+    transform: scale(1.05);
+}
+.box2{
+    height: 370px;
+    width: 40%;
+    margin-left: 15px;
+}
+.box3{
+    height: 370px;
+    width: 40%;
+    margin-left: 15px;
+}
+.b2a{
+    background-color: white;
+    display: flex;
+    height: 170px;
+    width: 100%;
+    border-radius: 5px 5px 5px 5px;
+    cursor: pointer;
+    transition: 1s;
+}
+.b2a:hover{
+    transform: scale(1.05);
+}
+.b2b{
+    background-color: white;
+    display: flex;
+    height: 170px;
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 5px 5px 5px 5px;
+    cursor: pointer;
+    transition: 1s;
+}
+.b2b:hover{
+    transform: scale(1.05);
+}
+.b3a{
+    background-color: white;
+    display: flex;
+    height: 170px;
+    width: 100%;
+    border-radius: 5px 5px 5px 5px;
+    cursor: pointer;
+    transition: 1s;
+}
+.b3a:hover{
+    transform: scale(1.05);
+}
+.b3b{
+    background-color: white;
+    display: flex;
+    height: 170px;
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 5px 5px 5px 5px;
+    cursor: pointer;
+    transition: 1s;
+}
+.b3b:hover{
+    transform: scale(1.05);
+}
+.b2a1{
+    background-color: white;
+    height: 160px;
+    width: 35%;
+    border-radius: 30px 0px 0px 30px;
+}
+.b2a2{
+    background-color: white;
+    height: 140px;
+    width: 65%;
+    margin-top: 15px;
+    border-radius: 0px 30px 30px 0px;
+}
+.b2b1{
+    background-color: white;
+    height: 160px;
+    width: 35%;
+    border-radius: 30px 0px 0px 30px;
+}
+.b2b2{
+    background-color: white;
+    height: 140px;
+    width: 65%;
+    margin-top: 15px;
+    border-radius: 0px 30px 30px 0px;
+}
+.b3a1{
+    background-color: white;
+    height: 160px;
+    width: 35%;
+    border-radius: 30px 0px 0px 30px;
+}
+.b3a2{
+    background-color: white;
+    height: 140px;
+    width: 65%;
+    margin-top: 15px;
+    border-radius: 0px 30px 30px 0px;
+}
+.b3b1{
+    height: 160px;
+    width: 35%;
+    border-radius: 30px 0px 0px 30px;
+}
+.b3b2{
+    background-color: white;
+    height: 140px;
+    width: 65%;
+    margin-top: 15px;
+    border-radius: 0px 30px 30px 0px;
+}
+.img2{
+    border-radius: 10px 0px 0px 10px;
+}
+
+
+
+
+
+.mainboxe{
+    margin-top: 60px;
+    height: 330px;
+    width: 90%;
+    margin-left: 60px;
+    display: flex;
+}
+.box1e{
+    background-color: white;
+    height: 330px;
+    width: 25%;
+    margin-left: 13px;
+    cursor: pointer;
+    transition: 1s;
+}
+.box1e:hover{
+    transform: scale(1.05);
+}
+.box2e{
+    height: 370px;
+    width: 40%;
+    margin-left: 0px;
+}
+.box3e{
+    height: 370px;
+    width: 40%;
+    margin-left: 15px;
+}
+.b2ae{
+    background-color: white;
+    display: flex;
+    height: 170px;
+    width: 100%;
+    border-radius: 5px 5px 5px 5px;
+    cursor: pointer;
+    transition: 1s;
+}
+.b2ae:hover{
+    transform: scale(1.05);
+}
+.b2be{
+    background-color: white;
+    display: flex;
+    height: 170px;
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 5px 5px 5px 5px;
+    cursor: pointer;
+    transition: 1s;
+}
+.b2be:hover{
+    transform: scale(1.05);
+}
+.b3ae{
+    background-color: white;
+    display: flex;
+    height: 170px;
+    width: 100%;
+    border-radius: 5px 5px 5px 5px;
+    cursor: pointer;
+    transition: 1s;
+}
+.b3ae:hover{
+    transform: scale(1.05);
+}
+.b3be{
+    background-color: white;
+    display: flex;
+    height: 170px;
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 5px 5px 5px 5px;
+    cursor: pointer;
+    transition: 1s;
+}
+.b3be:hover{
+    transform: scale(1.05);
+}
+.b2a1e{
+    background-color: white;
+    height: 160px;
+    width: 35%;
+    border-radius: 30px 0px 0px 30px;
+}
+.b2a2e{
+    background-color: white;
+    height: 140px;
+    width: 65%;
+    margin-top: 15px;
+    border-radius: 0px 30px 30px 0px;
+}
+.b2b1e{
+    background-color: white;
+    height: 160px;
+    width: 35%;
+    border-radius: 30px 0px 0px 30px;
+}
+.b2b2e{
+    background-color: white;
+    height: 140px;
+    width: 65%;
+    margin-top: 15px;
+    border-radius: 0px 30px 30px 0px;
+}
+.b3a1e{
+    background-color: white;
+    height: 160px;
+    width: 35%;
+    border-radius: 30px 0px 0px 30px;
+}
+.b3a2e{
+    background-color: white;
+    height: 140px;
+    width: 65%;
+    margin-top: 15px;
+    border-radius: 0px 30px 30px 0px;
+}
+.b3b1e{
+    height: 160px;
+    width: 35%;
+    border-radius: 30px 0px 0px 30px;
+}
+.b3b2e{
+    background-color: white;
+    height: 140px;
+    width: 65%;
+    margin-top: 15px;
+    border-radius: 0px 30px 30px 0px;
+}
+.img2e{
+    border-radius: 10px 0px 0px 10px;
+}
+.featured_product{
+    text-align: left;
+    margin-left: 60px;
+}
+.featured_product1{
+    text-align: left;
+    margin-left: 60px;
+    padding-top: 40px;
+}
+.tt1{
+    color: black;
+    text-decoration: none;
+}
+.tt2{
+    color: black;
+}

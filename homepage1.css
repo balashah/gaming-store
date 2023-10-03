@@ -1,0 +1,143 @@
+body{
+    background-color: whitesmoke;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+.navbar{
+    width: 99.85%;
+    height: 180px;
+}
+.navbarcolumn1{
+    background-color: rgb(53, 42, 63);
+    border-radius: 0px 0px 0px 0px;
+    border: 0.1px solid ;
+    width: 100%;
+    height: 50px;
+    display: flex;
+}
+.navbarcolumn2{
+    background-color: rgb(53, 42, 63);
+    border-radius: 0px 0px 0px 0px;
+    border: 0.1px solid ;
+    width: 100%;
+    height: 80px;
+    display: flex;
+}
+.navbarcolumn3{
+    background-color: rgb(53, 42, 63);
+    border-radius: 0px 0px 0px 0px;
+    border: 0.11px solid ;
+    width: 100%;
+    height: 50px;
+}
+.navbarcolumn1text{
+    width: 40%;
+    height: 100%;
+}
+.mtds{
+    margin-top: 15px;
+    margin-left: -60px;
+    color: white;
+}
+.signin{
+    background-color: rgb(53, 42, 63);
+    color: white;
+    margin-left: 460px;
+    margin-top: 5px;
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+    border: none;
+}
+.signin:hover{
+    color: red
+}
+.signup{
+    background-color: rgb(53, 42, 63);
+    color: white;
+    margin-left: 50px;
+    margin-top: 5px;
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+    border: none;
+}
+.signup:hover{
+    color: red
+}
+.imagelogo{
+    margin-left: 80px;
+    margin-top: 15px;
+    width: 300px;
+    height: 50px;
+}
+.navsearchbar{
+    margin-left: 75px;
+    margin-top: 30px;
+}
+.searchinput{
+    margin-top: -20px;
+    height: 50px;
+    width: 350px;
+    border-radius: 20px 0px 0px 20px;
+}
+.searchbutton{
+    background-color: red;
+    margin-top: -20px;
+    height: 50px;
+    width: 100px;
+    border-radius: 0px 20px 20px 0px;
+}
+.home{
+    background-color: rgb(53, 42, 63);
+    color: white;
+    margin-left: -775px;
+    margin-top: 5px;
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+    border: none;
+}
+.home:hover{
+    color: red
+}
+.faqs{
+    background-color: rgb(53, 42, 63);
+    color: white;
+    margin-left: 8px;
+    margin-top: 5px;
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+    border: none;
+}
+.faqs:hover{
+    color: red
+}
+.aboutus{
+    background-color: rgb(53, 42, 63);
+    color: white;
+    margin-left: 8px;
+    margin-top: 5px;
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+    border: none;
+}
+.aboutus:hover{
+    color: red
+}
+.contactus{
+    background-color: rgb(53, 42, 63);
+    color: white;
+    margin-left: 8px;
+    margin-top: 5px;
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+    border: none;
+}
+.contactus:hover{
+    color: red
+}
